@@ -4,7 +4,7 @@ These algorithms were designed to fulfill tasks in specific courses, practice wr
 They range from the most simple, to more complex, but all are useful for biological applications. Sometimes I utilized packages (like Biopython) for shortcutting or testing.
 
 #Contents
-- ([Rosalin* Problems](https://github.com/verasophiab/algorithmic_fun/tree/main/Rosa))
+- [Rosalin* Problems](https://github.com/verasophiab/algorithmic_fun/tree/main/Rosa)
 - Coursera certifications
   > UCSD's [Biology Meets Programming: Bioinformatics for Beginners](insert github link here)
 
